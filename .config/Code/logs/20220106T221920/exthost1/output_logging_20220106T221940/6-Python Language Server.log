@@ -1,0 +1,70 @@
+[Info  - 10:19:43 PM] Pylance language server 2022.1.0 (pyright 5829dcbb) starting
+[Info  - 10:19:43 PM] Server root directory: /home/salazarylizanicole/.vscode/extensions/ms-python.vscode-pylance-2022.1.0/dist
+[Info  - 10:19:43 PM] No configuration file found.
+[Info  - 10:19:43 PM] No pyproject.toml file found.
+[Info  - 10:19:43 PM] Setting pythonPath for service "salazarylizanicole": "/usr/bin/python3"
+[Warn  - 10:19:43 PM] stubPath /home/salazarylizanicole/typings is not a valid directory.
+[Info  - 10:19:44 PM] Assuming Python version 3.7
+[Info  - 10:19:44 PM] Assuming Python platform Linux
+[Warn  - 10:19:46 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:19:46 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:19:46 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 10:19:46 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 10:19:46 PM] Searching for source files
+[Info  - 10:19:50 PM] Found 5638 source files
+[Info  - 10:19:50 PM] Background analysis(1) root directory: /home/salazarylizanicole/.vscode/extensions/ms-python.vscode-pylance-2022.1.0/dist
+[Info  - 10:19:50 PM] Background analysis(1) started
+[Info  - 10:19:51 PM] Searching for source files
+[Info  - 10:19:52 PM] Found 5804 source files
+[Info  - 10:20:03 PM] Searching for source files
+[Info  - 10:20:04 PM] Found 5804 source files
+[Info  - 10:20:04 PM] Searching for source files
+[Info  - 10:20:05 PM] Found 5804 source files
+[Info  - 10:20:06 PM] Searching for source files
+[Info  - 10:20:07 PM] Found 5804 source files
+[Info  - 10:20:08 PM] Searching for source files
+[Info  - 10:20:08 PM] Found 5804 source files
+[Info  - 10:20:09 PM] Searching for source files
+[Info  - 10:20:10 PM] Found 5804 source files
+[Info  - 10:20:12 PM] Searching for source files
+[Info  - 10:20:13 PM] Found 5804 source files
+[Info  - 10:20:13 PM] Searching for source files
+[Info  - 10:20:14 PM] Found 5804 source files
+[Info  - 10:20:15 PM] Searching for source files
+[Info  - 10:20:15 PM] Found 5804 source files
+[Info  - 10:20:16 PM] Searching for source files
+[Info  - 10:20:17 PM] Found 5804 source files
+[Info  - 10:20:18 PM] Searching for source files
+[Info  - 10:20:19 PM] Found 5804 source files
+[Info  - 10:20:23 PM] Searching for source files
+[Info  - 10:20:24 PM] Found 5804 source files
+[Info  - 10:20:24 PM] Searching for source files
+[Info  - 10:20:25 PM] Found 5804 source files
+[Info  - 10:20:25 PM] Searching for source files
+[Info  - 10:20:26 PM] Found 5804 source files
+[Info  - 10:20:28 PM] Searching for source files
+[Info  - 10:20:30 PM] Found 5804 source files
+[Info  - 10:20:30 PM] Searching for source files
+[Info  - 10:20:32 PM] Found 5804 source files
+[Info  - 10:20:32 PM] Searching for source files
+[Info  - 10:20:33 PM] Found 5804 source files
+[Info  - 10:20:35 PM] Searching for source files
+[Info  - 10:20:36 PM] Found 5804 source files
+[Info  - 10:21:25 PM] Searching for source files
+[Info  - 10:21:26 PM] Found 5804 source files
+[Info  - 10:22:14 PM] Searching for source files
+[Info  - 10:22:15 PM] Found 5804 source files
+[Info  - 10:22:15 PM] Searching for source files
+[Info  - 10:22:17 PM] Found 5804 source files
+[Info  - 10:22:17 PM] Searching for source files
+[Info  - 10:22:18 PM] Found 5804 source files
+[Info  - 10:22:18 PM] Searching for source files
+[Info  - 10:22:19 PM] Found 5804 source files
+[Info  - 10:22:25 PM] Searching for source files
+[Info  - 10:22:26 PM] Found 5804 source files
+[Info  - 10:22:34 PM] Searching for source files
+[Info  - 10:22:35 PM] Found 5804 source files
+[Info  - 10:22:59 PM] Searching for source files
+[Info  - 10:23:00 PM] Found 5804 source files
+[Info  - 10:23:25 PM] Searching for source files
+[Info  - 10:23:26 PM] Found 5804 source files

@@ -1,0 +1,8 @@
+[2022-02-08 18:50:06.788] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.createExtensionHost() took 33 ms.
+[2022-02-08 18:50:06.982] [renderer1] [info] Starting extension host with pid 543.
+[2022-02-08 18:50:07.022] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 56 ms.
+[2022-02-08 18:50:10.980] [renderer1] [error] [Extension Host] (node:543) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-02-08 18:50:16.302] [renderer1] [info] Enabling inspect port on extension host with pid 543.
+[2022-02-08 18:50:16.575] [renderer1] [info] Enabling inspect port on extension host with pid 543.
+[2022-02-08 18:50:24.095] [renderer1] [warning] UNRESPONSIVE extension host, 'ms-toolsai.jupyter' took 100% of 1621.267ms, saved PROFILE here: 'file:///tmp/exthost-5b59f8.cpuprofile' [{"id":"ms-toolsai.jupyter","total":1620533,"percentage":100}]

@@ -1,0 +1,142 @@
+[Info  - 6:50:35 PM] Pylance language server 2022.1.3 (pyright 98868f26) starting
+[Info  - 6:50:35 PM] Server root directory: /home/salazarylizanicole/.vscode/extensions/ms-python.vscode-pylance-2022.1.3/dist
+[Info  - 6:50:36 PM] No configuration file found.
+[Info  - 6:50:36 PM] No pyproject.toml file found.
+[Info  - 6:50:36 PM] Setting pythonPath for service "salazarylizanicole": "/usr/bin/python3"
+[Warn  - 6:50:36 PM] stubPath /home/salazarylizanicole/typings is not a valid directory.
+[Info  - 6:50:36 PM] Assuming Python version 3.7
+[Info  - 6:50:36 PM] Assuming Python platform Linux
+[Warn  - 6:50:41 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 6:50:41 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 6:50:41 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Warn  - 6:50:41 PM] Exception received when installing file system watcher: TypeError [ERR_FEATURE_UNAVAILABLE_ON_PLATFORM]: The feature watch recursively is unavailable on the current platform, which is being used to run Node.js
+[Info  - 6:50:41 PM] Searching for source files
+[Info  - 6:50:44 PM] Found 6167 source files
+[Info  - 6:50:46 PM] Background analysis(1) root directory: /home/salazarylizanicole/.vscode/extensions/ms-python.vscode-pylance-2022.1.3/dist
+[Info  - 6:50:46 PM] Background analysis(1) started
+[Info  - 6:50:47 PM] Indexer background runner(2) root directory: /home/salazarylizanicole/.vscode/extensions/ms-python.vscode-pylance-2022.1.3/dist
+[Info  - 6:50:47 PM] Indexing(2) started
+[Info  - 6:50:48 PM] Searching for source files
+[Info  - 6:50:55 PM] Found 6333 source files
+[Info  - 6:50:55 PM] [IDX(2)] Long operation: index execution environment /home/salazarylizanicole (5158ms)
+[Info  - 6:50:55 PM] [IDX(2)] Long operation: index libraries /home/salazarylizanicole (6926ms)
+[Info  - 6:50:55 PM] Indexer done(2). indexed 429 files
+[Info  - 6:50:55 PM] [BG(1)] Long operation: getSemanticTokens range 90:0 - 146:40 at /home/salazarylizanicole/test.py (4914ms)
+[Info  - 6:50:55 PM] [BG(1)] Long operation: getSemanticTokens full at /home/salazarylizanicole/test.py (2584ms)
+[Info  - 6:50:57 PM] Searching for source files
+[Info  - 6:50:59 PM] Found 6333 source files
+[Info  - 6:51:32 PM] Searching for source files
+[Info  - 6:51:34 PM] Found 6333 source files
+[Info  - 6:51:54 PM] Searching for source files
+[Info  - 6:51:57 PM] Found 6333 source files
+[Info  - 6:52:05 PM] Searching for source files
+[Info  - 6:52:08 PM] Found 6333 source files
+[Info  - 6:52:08 PM] Searching for source files
+[Info  - 6:52:11 PM] Found 6333 source files
+[Info  - 6:52:19 PM] Searching for source files
+[Info  - 6:52:22 PM] Found 6333 source files
+[Info  - 6:52:22 PM] Searching for source files
+[Info  - 6:52:28 PM] Found 6333 source files
+[Info  - 6:52:28 PM] Searching for source files
+[Info  - 6:52:35 PM] Found 6333 source files
+[Info  - 6:52:35 PM] Searching for source files
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/gu-IN"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/he"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/hi-IN"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/hr"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/hsb"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/hu"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/hy-AM"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/hye"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ia"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/id"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/is"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/it"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ja"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ka"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/kab"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/kk"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/km"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/kn"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ko"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/lij"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/lo"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/lt"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ltg"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/lv"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/meh"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/mk"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/mr"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ms"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/my"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/nb-NO"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ne-NP"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/nl"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/nn-NO"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/oc"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/pa-IN"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/pl"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/pt-BR"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/pt-PT"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/rm"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ro"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ru"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/scn"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/sco"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/si"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/sk"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/sl"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/son"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/sq"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/sr"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/sv-SE"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/szl"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ta"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/te"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/tg"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/th"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/tl"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/tr"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/trs"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/uk"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/ur"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/uz"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/vi"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/wo"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/xh"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/zh-CN"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/locale/zh-TW"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/lib/web/standard_fonts"
+[Warn  - 6:52:37 PM] Skipping broken link "/home/salazarylizanicole/.vscode/extensions/.19f2d174-0895-47ad-b10b-30e162a8017d/out"
+[Info  - 6:52:42 PM] Found 6333 source files
+[Info  - 6:52:44 PM] Searching for source files
+[Info  - 6:52:47 PM] Found 6333 source files
+[Info  - 6:52:47 PM] Searching for source files
+[Info  - 6:52:50 PM] Found 6333 source files
+[Info  - 6:52:50 PM] Searching for source files
+[Info  - 6:52:54 PM] Found 6333 source files
+[Info  - 6:52:54 PM] Searching for source files
+[Info  - 6:52:57 PM] Found 6333 source files
+[Info  - 6:52:59 PM] Searching for source files
+[Info  - 6:53:00 PM] Found 6333 source files
+[Info  - 6:53:00 PM] Searching for source files
+[Info  - 6:53:02 PM] Found 6333 source files
+[Info  - 6:53:08 PM] Searching for source files
+[Info  - 6:53:13 PM] Found 6333 source files
+[Info  - 6:53:14 PM] Searching for source files
+[Info  - 6:53:15 PM] Found 6167 source files
+[Warn  - 6:53:42 PM] Workspace indexing has hit its upper limit: 2000 files
+[Info  - 6:54:05 PM] Searching for source files
+[Info  - 6:54:07 PM] Found 6333 source files
+[Info  - 6:54:14 PM] Searching for source files
+[Info  - 6:54:15 PM] Found 6333 source files
+[Info  - 6:54:16 PM] Searching for source files
+[Info  - 6:54:18 PM] Found 6333 source files
+[Info  - 6:54:28 PM] Searching for source files
+[Info  - 6:54:31 PM] Found 6333 source files
+[Info  - 6:54:31 PM] Searching for source files
+[Info  - 6:54:33 PM] Found 6333 source files
+[Warn  - 6:54:51 PM] Workspace indexing has hit its upper limit: 2000 files
+[Info  - 6:55:02 PM] Searching for source files
+[Info  - 6:55:04 PM] Found 6333 source files
+[Warn  - 6:55:32 PM] Workspace indexing has hit its upper limit: 2000 files

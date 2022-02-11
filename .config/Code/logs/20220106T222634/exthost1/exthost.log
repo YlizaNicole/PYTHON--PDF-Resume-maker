@@ -1,0 +1,16 @@
+[2022-01-06 22:26:41.554] [exthost] [info] Extension host with pid 2240 started
+[2022-01-06 22:26:41.554] [exthost] [info] Skipping acquiring lock for /home/salazarylizanicole/.config/Code/User/workspaceStorage/16524a5060bf3a7ff787ec04f1bd917e.
+[2022-01-06 22:26:42.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-01-06 22:26:42.504] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.vscode-pylance
+[2022-01-06 22:26:43.260] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-01-06 22:26:44.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-06 22:26:44.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-06 22:26:46.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-06 22:26:46.211] [exthost] [info] Eager extensions activated
+[2022-01-06 22:26:46.269] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-06 22:26:48.476] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-01-06 22:26:48.797] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-01-06 22:26:49.870] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-01-06 22:27:13.722] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-01-06 22:55:48.937] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-01-06 22:55:50.018] [exthost] [info] Extension host with pid 2240 exiting with code 0

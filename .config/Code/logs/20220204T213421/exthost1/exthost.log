@@ -1,0 +1,11 @@
+[2022-02-04 21:34:32.018] [exthost] [info] Extension host with pid 1542 started
+[2022-02-04 21:34:32.018] [exthost] [info] Skipping acquiring lock for /home/salazarylizanicole/.config/Code/User/workspaceStorage/16524a5060bf3a7ff787ec04f1bd917e.
+[2022-02-04 21:34:32.464] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-02-04 21:34:32.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-02-04 21:34:32.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-02-04 21:34:33.748] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-02-04 21:34:33.935] [exthost] [info] Eager extensions activated
+[2022-02-04 21:34:33.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-02-04 21:34:33.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-02-04 21:34:52.149] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-02-04 21:34:53.161] [exthost] [info] Extension host with pid 1542 exiting with code 0
