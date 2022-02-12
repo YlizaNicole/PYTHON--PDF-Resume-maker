@@ -1,8 +1,0 @@
-[2022-02-08 22:31:50.441] [settingssync] [info] Using settings sync service https://vscode-sync.trafficmanager.net/
-[2022-02-08 22:31:50.441] [settingssync] [info] Auto Sync is disabled.
-[2022-02-08 22:33:53.466] [settingssync] [info] Did reset the local sync state.
-[2022-02-08 22:34:00.909] [settingssync] [info] Settings: Stopped synchronizing settings.
-[2022-02-08 22:34:00.920] [settingssync] [info] Keybindings: Stopped synchronizing keybindings.
-[2022-02-08 22:34:00.928] [settingssync] [info] Snippets: Stopped synchronizing snippets.
-[2022-02-08 22:34:00.943] [settingssync] [info] GlobalState: Stopped synchronizing globalstate.
-[2022-02-08 22:34:00.957] [settingssync] [info] Extensions: Stopped synchronizing extensions.
