@@ -37,18 +37,22 @@ Pnumber = jsondata ["Phone no."]
 Object1= jsondata ["objective1"]
 Object2= jsondata ["objective2"]
 Object3= jsondata ["objective3"]
-#Job Qualification
-Line = jsondata ["Field"]
-Plang = jsondata ["Planguage"]
 
+
+#skills
+sk1=jsondata["skills1"]
+sk2=jsondata["skills2"]
+sk3=jsondata["skills3"]
+
+#character ref
+ch1= jsondata["character 1"]
+ch2= jsondata["character 2"]
+ch3= jsondata["character 3"]
 
 #educational background
 College = jsondata ["college"]
-Program = jsondata ["course"]
 Shs = jsondata ["senior high school"]
-Strand = jsondata ["strand"]
 Jhs = jsondata ["junior high school"]
-Spcl= jsondata ["Specialization"]
 
 
 #create pdf file
@@ -83,7 +87,6 @@ pdf.set_fill_color(40, 36, 29)
 pdf.cell(0,1, "OBJECTIVE", align="C", ln=1, fill=1)
 pdf.set_font("Times", "", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, Object1, align="J", ln=1, fill=0)
 pdf.cell(0,0.75, Object2, align="J", ln=1, fill=0)
 pdf.cell(0,0.75, Object3, align="J", ln=1, fill=0)
@@ -95,32 +98,50 @@ pdf.set_fill_color(40, 36, 29)
 pdf.cell(0,1, "EDUCATIONAL BACKGROUND", align="C", ln=1, border=1, fill=1)
 pdf.set_font("Times", "B", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, "Year: 2021-2025" , ln=1, fill=0)
 pdf.set_font("Times", "", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, "University: " + College, align="L", ln=1, fill=0)
-pdf.cell(0,0.75, "Course: " + Program, align="L", ln=1, fill=0)
 pdf.set_font("Times", "B", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, "Year: 2019-2021" , ln=1, fill=0)
 pdf.set_font("Times", "", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, "Senior Highschool: " + Shs, align="L", ln=1, fill=0)
-pdf.cell(0,0.75, "Strand: " + Strand, align="L", ln=1, fill=0)
 pdf.set_font("Times", "B", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, "Year: 2015-2019" , ln=1, fill=0)
 pdf.set_font("Times", "", 12)
 pdf.set_text_color(0,0,0)
-pdf.set_fill_color(247, 229, 205)
 pdf.cell(0,0.75, "Junior Highschool: " + Jhs, align="L", ln=1, fill=0)
-pdf.cell(0,0.75, "Specialization: " + Spcl, align="L", ln=1, fill=0)
 
+pdf.set_font("Times", "B", 15)
+pdf.set_text_color(255,255,255)
+pdf.set_fill_color(40, 36, 29)
+pdf.cell(0,1, "SKILLS", align="C", ln=1, fill=1)
+pdf.set_font("Times", "", 12)
+pdf.set_text_color(0,0,0)
+pdf.cell(0,0.75, sk1, align="J", ln=1, fill=0)
+pdf.cell(0,0.75, sk2, align="J", ln=1, fill=0)
+pdf.cell(0,0.75, sk3, align="J", ln=1, fill=0)
+pdf.ln(0.55)
+pdf.set_font("Times", "B", 15)
+pdf.set_text_color(255,255,255)
+pdf.set_fill_color(40, 36, 29)
+pdf.cell(0,1, "CHARACTER REFERENCE", align="C", ln=1, fill=1)
+pdf.set_font("Times", "", 12)
+pdf.set_text_color(0,0,0)
+pdf.cell(0,0.75, ch1, align="J", ln=1, fill=0)
+pdf.cell(0,0.75, ch2, align="J", ln=1, fill=0)
+pdf.cell(0,0.75, ch3, align="J", ln=1, fill=0)
+pdf.ln(0.55)
+
+pdf.set_font("Times", "B", 12)
+pdf.set_text_color(0,0,0)
+pdf.set_fill_color(247, 229, 205)
+pdf.cell(0,1,"* * * INFORMATION WILL BE AVAILABLE IF REQUESTED * * *",  align="C", ln=1, fill=0)
+pdf.cell(0,1,"* * * * * *",  align="C", ln=1, fill=0)
+pdf.cell(0,1,"* * * ALL STATED INFORMATION IS DELARED TRUE AND ACCURATE * * *",  align="C", ln=1, fill=0)
 
 pdf.output ("SALAZAR_YLIZA.pdf")
 
